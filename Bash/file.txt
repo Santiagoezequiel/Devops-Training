@@ -1,0 +1,17 @@
+archivo.txt
+arrays.sh
+bucles.sh
+case.sh
+condicionales.sh
+file.txt
+for.sh
+funciones.sh
+helloworld.sh
+output.sh
+pipes
+read.sh
+stderr_stdout.sh
+stdin.sh
+stdin.txt
+texto.txt
+until.sh

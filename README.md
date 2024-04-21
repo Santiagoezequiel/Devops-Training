@@ -2,9 +2,9 @@
 
 ### Mis conocimientos actuales abarcan:
 
-**Bash Scripting** Nivel Basico
-**Python**    Nivel Basico
-**Docker**    Nivel Muy Basico
-**Linux**     Nivel Basico
-**Jenkins**   Nivel Intermedio
+- **Bash Scripting** Nivel Basico
+- **Python**    Nivel Basico
+- **Docker**    Nivel Muy Basico
+- **Linux**     Nivel Basico
+- **Jenkins**   Nivel Intermedio
 

@@ -1,0 +1,3 @@
+print("Hola" * 3)
+
+print(3 * "Holis")

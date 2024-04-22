@@ -1,16 +1,7 @@
 """
-Los sets son se basan en una estructura desordenada llamada
+Los sets se basan en una estructura desordenada llamada
 HASH TABLE o HASH MAP
 """
-
-
-
-
-
-
-
-
-
 
 
 

@@ -1,17 +1,17 @@
-def sumar(num1, num2):
-    print(num1 + num2)
+def sumar(a, b):
+    return a + b
     
-def restar(num1, num2):
-    print(num1 - num2)
+def restar(a, b):
+    return a - b
     
-def multiplicar(num1, num2):
-    print(num1 * num2)
+def multiplicar(a, b):
+    return a * b
     
-def dividir(num1, num2):
-    if num2 != 0:
-        print(num1 / num2)
+def dividir(a, b):
+    if b != 0:
+        return a / b
     else:
-        print("No se puede dividir entre 0")
+        return "No se puede dividir entre 0"
 
 
 def calculadora():
@@ -21,6 +21,7 @@ def calculadora():
     print("2.Restar")
     print("3.Multiplicar")
     print("4.Dividir")
+    
     operacion = input("Indique la operacion que desea realizar ")
     
     num1 = float(input("Ingrese primer valor "))
@@ -29,17 +30,15 @@ def calculadora():
     
     
     if operacion == "1":
-        sumar(int(num1), int(num2))    
+        print("Resultado: ", sumar(num1,num2))    
     elif operacion == "2":
-        restar(int(num1), int(num2))
+        print("Resultado: ", restar(num1, num2))
     elif operacion == "3":
-        multiplicar(int(num1), int(num2))
+        print("Resultado: ", multiplicar(num1,num2))
     elif operacion == "4":
-        sumar(int(num1), int(num2))
+        print("Resultado: ", dividir(num1, num2))
     else:
-        print("Elija una opcion valida")
-        print("")
-        calculadora()
+        print("Opcion no valida")
 
 
 calculadora()   

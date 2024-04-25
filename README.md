@@ -1,11 +1,9 @@
-## Bienvenidos en mi travesia para convertirme en Devops Engineer
+# Welcome to my Devops Engineer journery
 
-### Mis conocimientos actuales abarcan:
+### I currently have a grasp of:
 
-- **Bash Scripting** Nivel Basico
-- **Python**    Nivel Basico
-- **Docker**    Nivel Muy Basico
-- **Linux**     Nivel Basico
-- **Jenkins**   Nivel Intermedio
-
-### *En la carpeta 00_Apuntes encontraran mis apuntes sobre cada herramienta que iré aprendiendo*
+- **Bash Scripting** 
+- **Python**    
+- **Docker**   
+- **Linux**     
+- **Jenkins**   

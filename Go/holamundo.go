@@ -108,6 +108,23 @@ func main() {
 	myList.PushBack(3)
 	fmt.Println(myList.Back().Value)
 
+	// Bucles
+
+	for index := 0; index < len(myArray); index++ {
+		fmt.Println(myArray[index])
+	}
+
+	for index, value := range myArray {
+		fmt.Println(index, value)
+	}
+
+	// Funciones
+
+	fmt.Println(myFunctions())
+}
+
+func myFunctions() string {
+	return "Mi funcion"
 }
 
 // El paquete fmt ya viene con la funcion para hacer un print

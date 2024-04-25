@@ -23,10 +23,10 @@ mi_modulo.imprimir("Holiiiii")
 exo("Esta es una funcion de otro directorio")
 sumita(3, 5)
 
-
-
 # Tambien podemos usar modulos predefinidos como math
 import math
+
 # Esto imprimirá el numero pi.
 print(math.pi)
+# Esto imprimirá 2 elevado a la 8.
 print(math.pow(2,8))

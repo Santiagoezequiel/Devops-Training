@@ -121,12 +121,18 @@ func main() {
 	// Funciones
 
 	fmt.Println(myFunctions())
+
+	// Estructura
+
+	type myStruct struct {
+		name string
+		age  int
+	}
+
+	Estructura := myStruct{"Santiago", 22}
+	fmt.Println(Estructura)
 }
 
 func myFunctions() string {
 	return "Mi funcion"
 }
-
-// El paquete fmt ya viene con la funcion para hacer un print
-
-// PRINTLN Imprime con un salto de linea
